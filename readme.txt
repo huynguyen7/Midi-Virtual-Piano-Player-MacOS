@@ -1,5 +1,7 @@
 QUICK-START GUIDE:
 
+NOTES: This works for MacOS X. Windows is not tested.
+
 1) Install requirements python modules and build resources folders:
 $ pip install requirements.txt
 $ mkdir mid-src > /dev/null
